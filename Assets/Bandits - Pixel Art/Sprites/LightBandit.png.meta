@@ -4,220 +4,220 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 21300000
-    second: LightBandit_idle0
+    second: LightBandit_0
   - first:
       213: 21300002
-    second: LightBandit_idle1
+    second: LightBandit_1
   - first:
       213: 21300004
-    second: LightBandit_idle2
+    second: LightBandit_2
   - first:
       213: 21300006
-    second: LightBandit_idle3
+    second: LightBandit_3
   - first:
       213: 21300008
-    second: LightBandit_battle0
+    second: LightBandit_4
   - first:
       213: 21300010
-    second: LightBandit_battle1
+    second: LightBandit_5
   - first:
       213: 21300012
-    second: LightBandit_battle2
+    second: LightBandit_6
   - first:
       213: 21300014
-    second: LightBandit_battle3
+    second: LightBandit_7
   - first:
       213: 21300016
-    second: LightBandit_run0
+    second: LightBandit_8
   - first:
       213: 21300018
-    second: LightBandit_run1
+    second: LightBandit_9
   - first:
       213: 21300020
-    second: LightBandit_run2
+    second: LightBandit_10
   - first:
       213: 21300022
-    second: LightBandit_run3
+    second: LightBandit_11
   - first:
       213: 21300024
-    second: LightBandit_run4
+    second: LightBandit_12
   - first:
       213: 21300026
-    second: LightBandit_run5
+    second: LightBandit_13
   - first:
       213: 21300028
-    second: LightBandit_run6
+    second: LightBandit_14
   - first:
       213: 21300030
-    second: LightBandit_run7
+    second: LightBandit_15
   - first:
       213: 21300032
-    second: LightBandit_attack0
+    second: LightBandit_16
   - first:
       213: 21300034
-    second: LightBandit_attack1
+    second: LightBandit_17
   - first:
       213: 21300036
-    second: LightBandit_attack2
+    second: LightBandit_18
   - first:
       213: 21300038
-    second: LightBandit_attack3
+    second: LightBandit_19
   - first:
       213: 21300040
-    second: LightBandit_attack4
+    second: LightBandit_20
   - first:
       213: 21300042
-    second: LightBandit_attack5
+    second: LightBandit_21
   - first:
       213: 21300044
-    second: LightBandit_attack6
+    second: LightBandit_22
   - first:
       213: 21300046
-    second: LightBandit_attack7
+    second: LightBandit_23
   - first:
       213: 21300048
-    second: LightBandit_awakening0
+    second: LightBandit_24
   - first:
       213: 21300050
-    second: LightBandit_awakening1
+    second: LightBandit_25
   - first:
       213: 21300052
-    second: LightBandit_awakening2
+    second: LightBandit_26
   - first:
       213: 21300054
-    second: LightBandit_awakening3
+    second: LightBandit_27
   - first:
       213: 21300056
-    second: LightBandit_awakening4
+    second: LightBandit_28
   - first:
       213: 21300058
-    second: LightBandit_awakening5
+    second: LightBandit_29
   - first:
       213: 21300060
-    second: LightBandit_awakening6
+    second: LightBandit_30
   - first:
       213: 21300062
-    second: LightBandit_awakening7
+    second: LightBandit_31
   - first:
       213: 21300064
     second: LightBandit_32
   - first:
       213: 21300066
-    second: LightBandit_hit0
+    second: LightBandit_33
   - first:
       213: 21300068
-    second: LightBandit_jump
+    second: LightBandit_34
   - first:
       213: 21300070
-    second: LightBandit_died
+    second: LightBandit_35
   - first:
       213: 4934140306522108382
-    second: LightBandit_idle0
+    second: LightBandit_0
   - first:
       213: 199220036092633495
-    second: LightBandit_idle1
+    second: LightBandit_1
   - first:
       213: -3793065437365655120
-    second: LightBandit_idle2
+    second: LightBandit_2
   - first:
       213: 5762447904151190788
-    second: LightBandit_idle3
+    second: LightBandit_3
   - first:
       213: 184462397613601461
-    second: LightBandit_battle0
+    second: LightBandit_4
   - first:
       213: -7734575796892476207
-    second: LightBandit_battle1
+    second: LightBandit_5
   - first:
       213: 5420599328299512162
-    second: LightBandit_battle2
+    second: LightBandit_6
   - first:
       213: -7400165603728366334
-    second: LightBandit_battle3
+    second: LightBandit_7
   - first:
       213: 4707871352329790198
-    second: LightBandit_run0
+    second: LightBandit_8
   - first:
       213: 4684572714520111212
-    second: LightBandit_run1
+    second: LightBandit_9
   - first:
       213: -286215300199792668
-    second: LightBandit_run2
+    second: LightBandit_10
   - first:
       213: 7470045143188182114
-    second: LightBandit_run3
+    second: LightBandit_11
   - first:
       213: -5291732744143370936
-    second: LightBandit_run4
+    second: LightBandit_12
   - first:
       213: -5205192690280478187
-    second: LightBandit_run5
+    second: LightBandit_13
   - first:
       213: -9189121880142249697
-    second: LightBandit_run6
+    second: LightBandit_14
   - first:
       213: -2275518834047429075
-    second: LightBandit_run7
+    second: LightBandit_15
   - first:
       213: -432466364012126320
-    second: LightBandit_attack0
+    second: LightBandit_16
   - first:
       213: -6547748350301717452
-    second: LightBandit_attack1
+    second: LightBandit_17
   - first:
       213: -9147449693609385369
-    second: LightBandit_attack2
+    second: LightBandit_18
   - first:
       213: 6389746812270015105
-    second: LightBandit_attack3
+    second: LightBandit_19
   - first:
       213: 6046700340489993513
-    second: LightBandit_attack4
+    second: LightBandit_20
   - first:
       213: 6086905928091726092
-    second: LightBandit_attack5
+    second: LightBandit_21
   - first:
       213: -4059423082674559007
-    second: LightBandit_attack6
+    second: LightBandit_22
   - first:
       213: -8136027096593766814
-    second: LightBandit_attack7
+    second: LightBandit_23
   - first:
       213: -1506778517376254606
-    second: LightBandit_awakening0
+    second: LightBandit_24
   - first:
       213: 7879160192275243311
-    second: LightBandit_awakening1
+    second: LightBandit_25
   - first:
       213: -1871480182136569439
-    second: LightBandit_awakening2
+    second: LightBandit_26
   - first:
       213: 6793143449532246489
-    second: LightBandit_awakening3
+    second: LightBandit_27
   - first:
       213: 5357688194466298927
-    second: LightBandit_awakening4
+    second: LightBandit_28
   - first:
       213: 787442259200014970
-    second: LightBandit_awakening5
+    second: LightBandit_29
   - first:
       213: 4191369675846477462
-    second: LightBandit_awakening6
+    second: LightBandit_30
   - first:
       213: 4354214996985446698
-    second: LightBandit_awakening7
+    second: LightBandit_31
   - first:
       213: 281259605958427469
     second: LightBandit_32
   - first:
       213: 8329464067899960501
-    second: LightBandit_hit0
+    second: LightBandit_33
   - first:
       213: -6276740940018014436
-    second: LightBandit_jump
+    second: LightBandit_34
   - first:
       213: 3730428872026013724
-    second: LightBandit_died
+    second: LightBandit_35
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -302,10 +302,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LightBandit_idle0
+      name: LightBandit_0
       rect:
         serializedVersion: 2
-        x: 14
+        x: 11
         y: 210
         width: 26
         height: 37
@@ -323,10 +323,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_idle1
+      name: LightBandit_1
       rect:
         serializedVersion: 2
-        x: 62
+        x: 64
         y: 210
         width: 26
         height: 37
@@ -344,10 +344,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_idle2
+      name: LightBandit_2
       rect:
         serializedVersion: 2
-        x: 110
+        x: 114
         y: 210
         width: 26
         height: 36
@@ -365,7 +365,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_idle3
+      name: LightBandit_3
       rect:
         serializedVersion: 2
         x: 158
@@ -386,10 +386,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_battle0
+      name: LightBandit_4
       rect:
         serializedVersion: 2
-        x: 197
+        x: 203
         y: 210
         width: 33
         height: 35
@@ -407,10 +407,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_battle1
+      name: LightBandit_5
       rect:
         serializedVersion: 2
-        x: 245
+        x: 252
         y: 210
         width: 33
         height: 35
@@ -428,10 +428,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_battle2
+      name: LightBandit_6
       rect:
         serializedVersion: 2
-        x: 293
+        x: 296
         y: 210
         width: 33
         height: 34
@@ -449,10 +449,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_battle3
+      name: LightBandit_7
       rect:
         serializedVersion: 2
-        x: 341
+        x: 345
         y: 210
         width: 33
         height: 34
@@ -470,10 +470,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_run0
+      name: LightBandit_8
       rect:
         serializedVersion: 2
-        x: 14
+        x: 19
         y: 162
         width: 25
         height: 33
@@ -491,10 +491,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_run1
+      name: LightBandit_9
       rect:
         serializedVersion: 2
-        x: 58
+        x: 67
         y: 163
         width: 29
         height: 33
@@ -512,10 +512,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_run2
+      name: LightBandit_10
       rect:
         serializedVersion: 2
-        x: 105
+        x: 107
         y: 162
         width: 32
         height: 35
@@ -533,10 +533,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_run3
+      name: LightBandit_11
       rect:
         serializedVersion: 2
-        x: 158
+        x: 155
         y: 161
         width: 25
         height: 35
@@ -554,10 +554,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_run4
+      name: LightBandit_12
       rect:
         serializedVersion: 2
-        x: 209
+        x: 208
         y: 162
         width: 20
         height: 33
@@ -575,10 +575,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_run5
+      name: LightBandit_13
       rect:
         serializedVersion: 2
-        x: 247
+        x: 254
         y: 164
         width: 31
         height: 32
@@ -596,10 +596,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_run6
+      name: LightBandit_14
       rect:
         serializedVersion: 2
-        x: 294
+        x: 302
         y: 162
         width: 31
         height: 35
@@ -617,10 +617,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_run7
+      name: LightBandit_15
       rect:
         serializedVersion: 2
-        x: 343
+        x: 351
         y: 162
         width: 31
         height: 35
@@ -638,12 +638,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_attack0
+      name: LightBandit_16
       rect:
         serializedVersion: 2
-        x: 12
+        x: 11
         y: 114
-        width: 24
+        width: 30
         height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -659,10 +659,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_attack1
+      name: LightBandit_17
       rect:
         serializedVersion: 2
-        x: 59
+        x: 64
         y: 114
         width: 25
         height: 45
@@ -680,10 +680,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_attack2
+      name: LightBandit_18
       rect:
         serializedVersion: 2
-        x: 107
+        x: 111
         y: 114
         width: 25
         height: 45
@@ -701,10 +701,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_attack3
+      name: LightBandit_19
       rect:
         serializedVersion: 2
-        x: 155
+        x: 159
         y: 114
         width: 24
         height: 45
@@ -722,10 +722,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_attack4
+      name: LightBandit_20
       rect:
         serializedVersion: 2
-        x: 192
+        x: 200
         y: 114
         width: 38
         height: 44
@@ -743,10 +743,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_attack5
+      name: LightBandit_21
       rect:
         serializedVersion: 2
-        x: 242
+        x: 253
         y: 114
         width: 36
         height: 44
@@ -764,10 +764,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_attack6
+      name: LightBandit_22
       rect:
         serializedVersion: 2
-        x: 293
+        x: 304
         y: 114
         width: 33
         height: 44
@@ -785,10 +785,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_attack7
+      name: LightBandit_23
       rect:
         serializedVersion: 2
-        x: 350
+        x: 365
         y: 114
         width: 24
         height: 44
@@ -806,10 +806,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_awakening0
+      name: LightBandit_24
       rect:
         serializedVersion: 2
-        x: 4
+        x: 6
         y: 66
         width: 39
         height: 12
@@ -827,10 +827,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_awakening1
+      name: LightBandit_25
       rect:
         serializedVersion: 2
-        x: 55
+        x: 63
         y: 66
         width: 35
         height: 22
@@ -848,10 +848,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_awakening2
+      name: LightBandit_26
       rect:
         serializedVersion: 2
-        x: 106
+        x: 115
         y: 66
         width: 27
         height: 31
@@ -869,10 +869,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_awakening3
+      name: LightBandit_27
       rect:
         serializedVersion: 2
-        x: 155
+        x: 154
         y: 66
         width: 26
         height: 31
@@ -890,10 +890,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_awakening4
+      name: LightBandit_28
       rect:
         serializedVersion: 2
-        x: 203
+        x: 206
         y: 66
         width: 26
         height: 31
@@ -911,7 +911,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_awakening5
+      name: LightBandit_29
       rect:
         serializedVersion: 2
         x: 251
@@ -932,10 +932,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_awakening6
+      name: LightBandit_30
       rect:
         serializedVersion: 2
-        x: 299
+        x: 302
         y: 66
         width: 26
         height: 31
@@ -953,10 +953,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_awakening7
+      name: LightBandit_31
       rect:
         serializedVersion: 2
-        x: 349
+        x: 350
         y: 66
         width: 23
         height: 33
@@ -995,7 +995,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_hit0
+      name: LightBandit_33
       rect:
         serializedVersion: 2
         x: 62
@@ -1016,10 +1016,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_jump
+      name: LightBandit_34
       rect:
         serializedVersion: 2
-        x: 111
+        x: 109
         y: 18
         width: 24
         height: 37
@@ -1037,10 +1037,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LightBandit_died
+      name: LightBandit_35
       rect:
         serializedVersion: 2
-        x: 145
+        x: 149
         y: 18
         width: 43
         height: 8
