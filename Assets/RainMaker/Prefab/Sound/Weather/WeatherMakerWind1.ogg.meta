@@ -1,77 +1,21 @@
 fileFormatVersion: 2
-guid: 4b995f6add27b214fb134be35c6d83ea
-timeCreated: 1428541481
-licenseType: Store
+guid: 8cf26fbf5a3286c499259febb2a2755d
 AudioImporter:
+  externalObjects: {}
   serializedVersion: 6
   defaultSettings:
-    loadType: 2
+    loadType: 0
     sampleRateSetting: 0
-    sampleRateOverride: 0
+    sampleRateOverride: 44100
     compressionFormat: 1
     quality: 1
     conversionMode: 0
-  platformSettingOverrides:
-    1:
-      loadType: 2
-      sampleRateSetting: 0
-      sampleRateOverride: 0
-      compressionFormat: 1
-      quality: 1
-      conversionMode: 0
-    2:
-      loadType: 2
-      sampleRateSetting: 0
-      sampleRateOverride: 0
-      compressionFormat: 1
-      quality: 1
-      conversionMode: 0
-    4:
-      loadType: 2
-      sampleRateSetting: 0
-      sampleRateOverride: 0
-      compressionFormat: 3
-      quality: 1
-      conversionMode: 0
-    7:
-      loadType: 2
-      sampleRateSetting: 0
-      sampleRateOverride: 0
-      compressionFormat: 1
-      quality: 1
-      conversionMode: 0
-    13:
-      loadType: 2
-      sampleRateSetting: 2
-      sampleRateOverride: 44100
-      compressionFormat: 7
-      quality: 1
-      conversionMode: 0
-    14:
-      loadType: 2
-      sampleRateSetting: 0
-      sampleRateOverride: 0
-      compressionFormat: 1
-      quality: 1
-      conversionMode: 0
-    15:
-      loadType: 2
-      sampleRateSetting: 0
-      sampleRateOverride: 0
-      compressionFormat: 1
-      quality: 1
-      conversionMode: 0
-    16:
-      loadType: 2
-      sampleRateSetting: 0
-      sampleRateOverride: 0
-      compressionFormat: 1
-      quality: 1
-      conversionMode: 0
-  forceToMono: 1
+  platformSettingOverrides: {}
+  forceToMono: 0
   normalize: 1
-  preloadAudioData: 0
+  preloadAudioData: 1
   loadInBackground: 0
+  ambisonic: 0
   3D: 1
   userData: 
   assetBundleName: 
